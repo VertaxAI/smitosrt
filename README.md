@@ -5,7 +5,7 @@ smi to srt conversion
 
 ## 받는 방법
 
-[Releases](../../releases/latest) 에서 `SmiToSrtConverter-1.2-win-x86.zip` 을 받아 압축을 풀고 `SmiToSrtConverter.exe` 를 실행하면 됩니다. 설치는 필요 없습니다.
+[Releases](../../releases/latest) 에서 `SmiToSrtConverter-1.2.1-win-x86.zip` 을 받아 압축을 풀고 `SmiToSrtConverter.exe` 를 실행하면 됩니다. 설치는 필요 없습니다.
 
 ## 기능
 
